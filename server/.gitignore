@@ -1,5 +1,6 @@
 # Defaults
 node_modules
+public/uploads
 .DS_Store
 dist
 dist-ssr
